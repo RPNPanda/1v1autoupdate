@@ -1,6 +1,6 @@
 # Discord.gg/rpnmods + Discord.gg/DKN7gesp44 (Netware)
 
-• Combat
+```
       + Aimbot
             - Enabled
             - Aim Bone
@@ -25,8 +25,6 @@
             - Rapid Fire
             - No Spread
             - Infinite Range
-
-• Visual
       + ESP
             - Tracers
             - Skeleton
@@ -42,8 +40,6 @@
       + FOV Changer
             - Enabled
             - Amount (20 - 150)
-
-• Movement
       + Speed
             - Enabled
             - Amount (1 - 10)
@@ -51,8 +47,6 @@
             - Enabled
       + BHop
             - Enabled
-
-• Exploits
       + Player
             - Godmode
             - Instant Land
@@ -82,8 +76,6 @@
             - Building Gun
             - Teleport Gun
             - Explosion Gun
-
-• Settings
       + Config Manager
             - Save
             - Delete
@@ -91,3 +83,4 @@
             - Watermark
             - Watermark Time Type
       + Config Loader
+```
